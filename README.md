@@ -1,5 +1,5 @@
 # SingleCellQC
-Pipeline for automatic single cell queality control and sample data integration with Seurat
+Pipeline for automatic single cell quality control and sample data integration with Seurat
 
 ## Required R packages
 
