@@ -4,7 +4,7 @@ This repository contains an R script for a pipeline designed to automate single-
 ### Usage:
 1. **Clone the Repository:**
    ```bash
-    git clone https://github.com/your_username/Single-Cell-QC-Integration-Pipeline.git
+    git clone https://github.com/andreazorro/SingleCellQC.git
    ```
 
 2. **Place Cell Ranger Output Files:**
@@ -14,7 +14,7 @@ This repository contains an R script for a pipeline designed to automate single-
    Open your terminal or command prompt, navigate to the folder containing the R script and Cell Ranger output files, and execute the following command:
 
    ```bash
-    Rscript single_cell_pipeline.R
+    Rscript IntegrationDataSeurat.R
    ```
 
 ### Output:
